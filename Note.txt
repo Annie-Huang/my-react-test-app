@@ -5,3 +5,9 @@
 HuangA6@192-168-1-113 projects % npx create-react-app my-react-test-app --template typescript
 HuangA6@192-168-1-113 my-react-test-app % npm install
 
+--------------
+
+HuangA6@192-168-1-113 otc-ui-component-library % npm run build
+HuangA6@192-168-1-113 otc-ui-component-library % npm pack
+
+HuangA6@192-168-1-113 my-react-test-app % npm install ../otc-ui-component-library/otc-ui-component-library-4.0.0-alpha.3.tgz
