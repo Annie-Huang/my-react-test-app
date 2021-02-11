@@ -3,3 +3,5 @@
 =====================================
 
 HuangA6@192-168-1-113 projects % npx create-react-app my-react-test-app --template typescript
+HuangA6@192-168-1-113 my-react-test-app % npm install
+
